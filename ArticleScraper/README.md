@@ -15,7 +15,7 @@ pip install newspaper
 Scrape articles by passing a stock ticker/symbol.
 
 ```bash
-python main.py <TICKER>
+python main.py $TICKER
 ```
 
 Get help.
