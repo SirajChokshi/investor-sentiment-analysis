@@ -6,7 +6,7 @@ Pass a stock ticker (e.g. MSFT, DOW, AMZN, etc) as the first and only argument a
 
 Install the `newspaper` module
 
-```python
+```bash
 pip install newspaper
 ```
 
@@ -14,12 +14,12 @@ pip install newspaper
 
 Scrape articles by passing a stock ticker/symbol.
 
-```python
+```bash
 python main.py <TICKER>
 ```
 
 Get help.
 
-```python
+```bash
 python main.py --help
 ```
